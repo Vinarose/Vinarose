@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinarose
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Information System
-- 💞️ I’m looking to collaborate on High level languages
+- 💞️ I’m looking to collaborate on Programming languages
 - 📫 How to reach me rrwrigh4@svsu.edu
 
 <!---
